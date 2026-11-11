@@ -151,16 +151,16 @@ Interactive assistant evaluating portfolio distributions and proposing risk-miti
 
 ## 👤 Author & Inquiries
 
-This project was conceived, architected, and engineered by **Josmar**.
+This project was conceived, architected, and engineered by **Josmar Veliz**.
 
 If you represent an organization interested in a private live demonstration, an architectural walkthrough, or discussing full-stack engineering leadership opportunities:
 
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/josmardev) *(Update with your direct URL)*
-- **GitHub**: [@Josmar](https://github.com/josmar) *(Update with your GitHub handle)*
+- **LinkedIn**: [Connect on LinkedIn](https://ve.linkedin.com/in/josmarveliz)
+- **GitHub**: [@Josmar](https://github.com/JosmarV)
 - **Direct Inquiry**: Available via LinkedIn messaging for technical discussions and portfolio evaluations.
 
 ---
 
 <p align="center">
-  <sub>Copyright © 2026 Josmar. All rights reserved. Commercial product; proprietary codebase.</sub>
+  <sub>Copyright © 2026 Josmar Veliz. All rights reserved. Commercial product; proprietary codebase.</sub>
 </p>
