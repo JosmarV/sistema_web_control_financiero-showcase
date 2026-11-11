@@ -156,7 +156,7 @@ This project was conceived, architected, and engineered by **Josmar Veliz**.
 If you represent an organization interested in a private live demonstration, an architectural walkthrough, or discussing full-stack engineering leadership opportunities:
 
 - **LinkedIn**: [Connect on LinkedIn](https://ve.linkedin.com/in/josmarveliz)
-- **GitHub**: [@Josmar](https://github.com/JosmarV)
+- **GitHub**: [@JosmarV](https://github.com/JosmarV)
 - **Direct Inquiry**: Available via LinkedIn messaging for technical discussions and portfolio evaluations.
 
 ---
